@@ -9,6 +9,7 @@ function App() {
           <div className="movie-card-text">
             <label>Movie Title</label>
             <label>Rating</label>
+            <label>Movie Title</label>
             {/* <label>Description</label> */}
           </div>
         </div>
