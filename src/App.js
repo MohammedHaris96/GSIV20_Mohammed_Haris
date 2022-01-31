@@ -10,10 +10,6 @@ function App() {
             <label>Movie Title</label>
             <label>Rating</label>
             <label>Movie Title</label>
-
-            <label>Movie Title</label>
-            <label>Movie Title</label>
-            <label>Movie Title</label>
             <label>Movie Title</label>
             {/* <label>Description</label> */}
           </div>
